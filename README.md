@@ -1,4 +1,5 @@
-### 1. Determining Sankey's color by the proportion of TypeA
+### 1. Determining Sankey's color by the proportion of TypeA[^1]
+[^1]: Lai, Y., & Zhao, H. (2025). Comparative analysis of smart city scientific research trends in the USA and China. Nature Cities, 1～9. https://doi.org/10.1038/s44284-025-00305-y  
 - **Applicable to situations where flow types are distinguished (TypeA and TypeB)**
 #### 1.1 Necessary packages
 ```python
